@@ -11,7 +11,7 @@ If you spot any mistakes, please correct me.
 
 If you have suggestions or good resources for learing python, please leave a comment.
 
-I appreciate the help of all of you. 
+I appreciate your help. 
 
 Thank you.
 
