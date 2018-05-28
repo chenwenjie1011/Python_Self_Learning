@@ -3,7 +3,7 @@ def countPrime(lis):
     Return the number of prime numbers in an int list
     '''
     count = 0
-    for y in [y for y in lis]:
+    for y in lis:
         if y == 0:
             continue
         x = y // 2
